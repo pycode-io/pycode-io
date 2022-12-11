@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **BMI CALCULATOR**
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Android , PHP**
 
-- 💬 Ask me about **Android , Java**
+- 💬 Ask me about **Android , Java ,PHP**
 
 - 📫 How to reach me **softkiller706@gmail.com**
 
