@@ -27,6 +27,6 @@
 
 <p><img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pycodeorg&show_icons=true&locale=en&layout=compact" alt="pycodeorg" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pycodeorg&show_icons=true&locale=en" alt="pycodeorg" /></p>
+<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=pycodeorg&show_icons=true&locale=en" alt="pycodeorg" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pycodeorg&" alt="pycodeorg" /></p>
+<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=pycodeorg&" alt="pycodeorg" /></p>
