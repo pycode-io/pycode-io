@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/pradeepyadav13)
+[![MasterHead](github.jpg)](https://github.com/pycodeorg)
 <h1 align="center">Hi 👋, I'm Pradeep Yadav</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
