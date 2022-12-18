@@ -1,4 +1,3 @@
-[![MasterHead](<h1>Pradeep Yadav</h1>)](https://github.com/pycodeorg)
 <h1 align="center">Hi 👋, I'm Pradeep Yadav</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
