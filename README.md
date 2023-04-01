@@ -8,12 +8,12 @@
 
 <p align="left"  width="250" > <a href="https://twitter.com/_ipradeepyadav" target="blank"><img src="https://img.shields.io/twitter/follow/_ipradeepyadav?logo=twitter&style=for-the-badge" alt="_ipradeepyadav" /></a> </p>
 
-- 🔭 I’m currently working on **BMI CALCULATOR**
+- 🔭 Currently I’m working on : **Medical , Movies Website **
 
-- 🌱 I’m currently learning **Android , Laravel**
+- 🌱 I’m currently learning : **Android , Laravel**
 
-- 💬 Ask me about **Laravel , Java ,PHP**
+- 💬 Ask me about : **Laravel , Java ,PHP**
 
-- 📫 How to reach me **softkiller706@gmail.com**
+- 📫 Connect with me : **softkiller706@gmail.com**
 
-- 📫 Connect with me on Instragram **_itspradeepydv**
+- 📫 Connect with me on Instragram : **_itspradeepydv**
